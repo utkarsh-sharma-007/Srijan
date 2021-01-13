@@ -1,0 +1,34 @@
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#clear as JSONAPI
+sample something else
+Processing by SprintsController#call as JSONAPI
+Processing by SprintsController#test as JSONAPI
+lorem ipsum
+Processing by SprintsController#clear as JSONAPI
+Processing by SprintsController#set as JSONAPI
+Processing by SprintsController#test as JSONAPI
+Processing by SprintsController#clear as JSONAPI
+Processing by SprintsController#set as JSONAPI
+Processing by SprintsController#test as JSONAPI
+Processing by SprintsController#clear as JSONAPI
+Processing by SprintsController#set as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#clear as JSONAPI
+Processing by SprintsController#call as JSONAPI
+Processing by SprintsController#test as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#clear as JSONAPI
+Processing by SprintsController#call as JSONAPI
+Processing by SprintsController#test as JSONAPI
+Processing by SprintsController#set as JSONAPI
+Processing by SprintsController#test as JSONAPI
+Processing by SprintsController#clear as JSONAPI
+Processing by SprintsController#set as JSONAPI
+Processing by SprintsController#test as JSONAPI
+Processing by SprintsController#clear as JSONAPI
+Processing by SprintsController#set as JSONAPI
+Processing by SprintsController#show as JSONAPI
+Processing by SprintsController#clear as JSONAPI
+Processing by SprintsController#call as JSONAPI
+Processing by SprintsController#test as JSONAPI
+Processing by SprintsController#show as JSONAPI
